@@ -5,8 +5,8 @@ A twitter bot for tweeting random word with verb/noun/adverb/adj and french tran
 ```sh
 pip3 install -r requirements.txt 
 ```
-``` Add your twitter "CONSUMER_KEY", "CONSUMER_SECRET", "ACCESS_TOKEN", "ACCESS_TOKEN_SECRET"
-```
+* Add your twitter "CONSUMER_KEY", "CONSUMER_SECRET", "ACCESS_TOKEN", "ACCESS_TOKEN_SECRET"
+
 ```sh
 python3 engBot.py 
 ```
