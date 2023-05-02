@@ -1,5 +1,5 @@
 beautifulsoup4==4.8.2
-Flask==1.1.2
+Flask==2.2.5
 Flask-API==2.0
 googletrans==2.4.0
 PyDictionary==1.5.2
