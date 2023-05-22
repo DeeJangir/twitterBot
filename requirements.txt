@@ -3,7 +3,7 @@ Flask==1.1.2
 Flask-API==2.0
 googletrans==2.4.0
 PyDictionary==1.5.2
-requests==2.22.0
+requests==2.31.0
 tweepy==3.8.0
 gunicorn==20.0.4
 APScheduler==3.0.0
